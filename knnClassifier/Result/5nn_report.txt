@@ -1,0 +1,10 @@
+IRIS K-NN CLASSIFICATION REPORT 
+Data UCI 
+Format: Index, ClassName, NumOfInstance, NumOfSuccess, Accuracy 
+ 
+1, Iris-setosa, 25, 25, 100.00% 
+2, Iris-versicolor, 25, 24, 96.00% 
+3, Iris-virginica, 25, 21, 84.00% 
+
+ 
+NumOfTotal : 75, NumOfTotalSuccess : 70, TotalAccuracy : 93.33%

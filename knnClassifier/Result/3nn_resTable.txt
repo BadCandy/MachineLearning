@@ -1,0 +1,7 @@
+IRIS K-NN CLASSIFICATION RESTABLE 
+Format(Horizontal) : Iris-setosa, Iris-versicolor, Iris-virginica 
+Format(Vertical) : Iris-setosa, Iris-versicolor, Iris-virginica 
+
+25 0 0 
+0 24 1 
+0 3 22 

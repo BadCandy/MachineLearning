@@ -1,0 +1,6 @@
+IRIS CLASSIFICATION USING BAYESIAN DECISION MAKING REPORT
+Data UCI
+Çü½Ä: Index, ClassName, NumOfInstance , Accuracy
+1, Iris-setosa, 25, 100.00%
+2, Iris-versicolor, 25, 92.00%
+3, Iris-virginica, 25, 100.00%
